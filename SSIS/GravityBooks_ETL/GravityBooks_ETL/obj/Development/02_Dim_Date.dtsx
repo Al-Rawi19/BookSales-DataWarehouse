@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="4/21/2026 1:59:01 AM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="AL-RAWI"
+  DTS:CreatorName="AL-RAWI\rawi2"
+  DTS:DTSID="{6B380407-7776-4409-8798-C2047279C529}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="17.0.1016.0"
+  DTS:LocaleID="1033"
+  DTS:ObjectName="Package2"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{94DA6CEE-EF11-43CF-B06C-D5F5C5D67C8C}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>

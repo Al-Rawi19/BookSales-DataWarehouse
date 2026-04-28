@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="CM_DWH"
+  DTS:DTSID="{F30AFD01-41DC-4CF0-A6A1-242CA135F6C7}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=.;Initial Catalog=gravity_dwh;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-GravityBooks_ETL-{F30AFD01-41DC-4CF0-A6A1-242CA135F6C7}LocalHost.gravity_dwh;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
