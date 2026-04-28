@@ -209,6 +209,6 @@ EXECUTE DWH/DWH_DDL.sql
  
 **Ahmed Al-Rawi**  
 📧 ahmed.m.a.alrawi@gamil.com  
-💼 [LinkedIn](www.linkedin.com/in/ahmed-al-rawi-9b20ba33a)  
+💼 [LinkedIn](www.linkedin.com/in/ahmedalrawi)  
 🐙 [GitHub](https://github.com/Al-Rawi19)
  
