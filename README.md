@@ -25,7 +25,7 @@
  
 ---
  
-## ⭐ Star Schema Design
+## ⭐ galaxy Schema Design
  
 The DWH uses a **galaxy schema** — two fact tables sharing conformed dimensions.
  
@@ -162,12 +162,10 @@ BookSales-DataWarehouse/
  
 | Technology | Purpose |
 |---|---|
-| **SQL Server 2019+** | OLTP source & DWH target databases |
+| **SQL Server 2022+** | OLTP source & DWH target databases |
 | **SSIS** (SQL Server Integration Services) | 11-package ETL pipeline |
 | **SSAS** (SQL Server Analysis Services) | OLAP cube & multidimensional analysis |
-| **T-SQL** | DDL, transformations, stored procedures |
 | **Visual Studio + SSDT** | SSIS & SSAS development |
-| **SQL Server Agent** | Daily scheduled execution |
  
 ---
  
@@ -182,7 +180,7 @@ BookSales-DataWarehouse/
  
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/BookSales-DataWarehouse.git
+git clone https://github.com/Al-Rawi19/BookSales-DataWarehouse.git
 cd BookSales-DataWarehouse
 ```
  
@@ -209,10 +207,8 @@ EXECUTE DWH/DWH_DDL.sql
  
 ## 📬 Contact
  
-**Your Name**  
-📧 your.email@example.com  
-💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🐙 [GitHub](https://github.com/YOUR_USERNAME)
+**Ahmed Al-Rawi**  
+📧 ahmed.m.a.alrawi@gamil.com  
+💼 [LinkedIn](www.linkedin.com/in/ahmed-al-rawi-9b20ba33a)  
+🐙 [GitHub](https://github.com/Al-Rawi19)
  
----
-*Built with ❤️, T-SQL, and a lot of Conditional Splits*
